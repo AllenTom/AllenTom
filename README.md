@@ -1,4 +1,3 @@
-![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 ## Allen with his home lab 👋
  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)  ![](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)  ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
  ![](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)  ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
