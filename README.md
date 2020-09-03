@@ -1,8 +1,20 @@
-### Allen with his home lab 🚀
+![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
+## Allen with his home lab 👋
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  ![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)  ![](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)  ![](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+ ![](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)  ![](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
-- 主要语言： `Golang` `Typescript` and `Kotlin`
-- 当前目标： ACG Series计划  =>  [You Comic 📕](https://github.com/Project-XPolaris) (LTS) |  [You Anime📺](https://github.com/Project-XPolaris) (构建中)  |  [You Game🎈](https://github.com/428talent)
+朴实无华的垃圾佬以及他的Home Lab，居然还要在垃圾上编程👍
 
+全栈工程师(其实是在干全栈的活)😑
+
+
+
+### 🔨 在干啥？
+- ACG Series计划(Project XPolaris)  ：  [You Comic 📕](https://github.com/Project-XPolaris) (LTS) |  [You Anime📺](https://github.com/Project-XPolaris) (构建中)  |  [You Game🎈](https://github.com/428talent)
+
+- LeetCode刷题计划 - [笔记本](https://github.com/AllenTom/Algorithm)
+
+- GreenDash 每天都要写点东西
+
+### 👊公开处刑
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allentom&show_icons=true&theme=radical)
-
-
