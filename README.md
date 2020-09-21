@@ -15,6 +15,5 @@
 
 - GreenDash🐎 - 每天都要写点东西
 
-- 正在读📚 - 《HTTP权威指南》
 ### 👊公开处刑
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=allentom&show_icons=true&theme=radical)
